@@ -1,17 +1,17 @@
 ---
 layout: page
-type: Instrucción
-title: Estudios
+type: Guitarras
+title: marcas
+logo:
 permalink: /Instrucción/
+
 ---
-unidad educativa dante Alighieri
+Trabajamos con las siguientes Marcas
 
-instrucción primaria terminada
+*Gibson
 
-instrucción secundaria terminada
 
-título de bachiller obtenido
+*Jackson
 
-de comercio y administración en aplicaciones informáticas.
 
-universidad de guayaquil carrera ingeniería de software(actualmente cursando)
+*Fender
